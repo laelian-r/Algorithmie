@@ -1,0 +1,5 @@
+Algorithme tri(tab)
+Début
+    N -> taille du tableau
+    pour i allant de 1 jusqu'a N
+    Temp -> N[i]

@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #242424;
+  color: white;
+  font-size: 2rem;
+  height: 100dvh;
+  width: 100dvw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#app {
+  text-align: center;
+}
+
+.score {
+  border: 2px solid white;
+  border-radius: 3px;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+}

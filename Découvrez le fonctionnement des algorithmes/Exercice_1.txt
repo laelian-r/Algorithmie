@@ -1,0 +1,22 @@
+Option 1 :
+
+Début
+	Déplacement en haut
+	Déplacement en haut
+    Déplacement à droite
+	Déplacement en haut
+	Déplacement à droite
+    Déplacement à droite
+Fin
+
+
+Option 2 :
+
+Début
+	Déplacement en haut
+	Déplacement en haut
+    Déplacement à droite
+	Déplacement en haut
+	Déplacement à droite
+    Déplacement à droite
+Fin

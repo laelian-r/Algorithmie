@@ -1,0 +1,9 @@
+Algorithme creation_variables
+Variables
+    nomDuJoueur = "" : CHAINE DE CARACTÈRES
+    est_terminé = false : BOOL
+Début
+    nomDuJoueur = "John Doe"
+    déplacementDépartArrivée(nomDuJoueur)
+    est_terminé = true
+Fin

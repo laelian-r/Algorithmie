@@ -1,0 +1,5 @@
+fonction maj_déplacement_score(deplacement, score, point_de_déplacement)
+debut
+    deplacement = deplacement + 1
+    score = score + point_de_déplacement
+fin

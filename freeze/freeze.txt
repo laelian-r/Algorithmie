@@ -1,0 +1,22 @@
+Algorithme freeze(n)
+Début
+    Si n != 0
+        Retourner n - 1
+        Afficher n
+    Sinon
+        Retourner 0
+    Fin Si
+Fin
+
+
+Correction :
+
+Algorithme freeze(n)
+    Si n == 0 :
+        arrêter l’appel recursive
+    Fin Si
+    
+    Afficher n
+    attendre(1)
+    freeze(n - 1)
+Fin
